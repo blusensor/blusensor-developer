@@ -17,20 +17,19 @@ examples and improvements.
 * [bluSensor® Developer Wiki](https://github.com/blusensor/blusensor-developer/wiki)
 
 
-# Compatible Apps
+## Compatible Apps
 
 * [bluSensor® App for iOS](https://itunes.apple.com/at/app/blusensor-air/id1018752395?mt=8)
 * [bluSensor® App for Android](https://play.google.com/store/apps/details?id=com.almendo.blusensor.air)
 
-# Purchase Sensors
+## Purchase Sensors
 
 You can buy sensors and development kits in our online shop at 
 
 * [bluSensor® Shop](https://www.blusensor.com/shop/)
  
 
-
-# Support
+## Support
 
 If you’re experiencing issues with the bluSensor® API or need development assistance, our team is here to help! Feel
 free to reach out to us anytime at support@blusensor.com for expert support.
